@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto _SQL Hotel Database_
+# Boas-vindas ao repositório do projeto _SQL Hotel Database I_
 
 ## Entregáveis
 
